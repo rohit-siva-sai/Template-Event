@@ -9,6 +9,11 @@ const Contact = () => {
             Contact
           </h1>
         </div>
+     <div>
+          <h1 className="font-bold font-serif text-6xl text-white text-center">
+            Contact
+          </h1>
+        </div>
       </div>
     </div>
   )
